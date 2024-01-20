@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/db624d7e-c2bf-4f9f-8d32-5c93d5c627dc/resourceGroups/azure-example-by-asuka/providers/Microsoft.Web/sites/asuka-iod-example",
+  "appService.deploySubpath": "."
+}
